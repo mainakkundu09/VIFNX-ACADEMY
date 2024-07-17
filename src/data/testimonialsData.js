@@ -7,7 +7,7 @@ export const testimonialsData = [
     image: image1,
     review:
       "I made the right choice by choosing the VIFNX and by choosing the right plan and program I already achieved my ideal body!",
-    name: 'ABHIRUP MONDAL',
+    name: 'ABHIRUP MANDAL',
     status : 'BBA-STUDENT'
   },
   {

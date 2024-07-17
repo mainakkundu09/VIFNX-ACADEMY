@@ -19,7 +19,7 @@ const Reasons = () => {
         </div>
 
 
-       <div className="right-r">
+       <div className="right-r">  
             <span>some reasons</span>
 
             <div>
